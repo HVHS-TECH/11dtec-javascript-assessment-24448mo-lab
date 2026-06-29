@@ -16,4 +16,5 @@ var userColor = prompt ("What is your favorite color?")
 
 console.log("Your favorite color is " + userColor + "!")
 
-alert("Thank you for visiting my website, " + userName + "!")           
+var userFood = prompt ("What is your favorite food?")
+alert("Thank you for visiting my website, " + userName + "!")     
