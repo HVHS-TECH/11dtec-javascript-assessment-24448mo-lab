@@ -7,3 +7,4 @@ alert("Welcome to my first Javascript program!")
 var userName = prompt ("Welcome to this website! \n Please enter ur name")
 
 console.log("Hello, " + userName + "!")
+
