@@ -12,6 +12,6 @@ var userAge = prompt ("How old are you?")
 
 console.log("You are " + userAge + " years old!")
 
-var userFood = prompt ("What is your favorite food?")
+var userFood = prompt ("What are you choosing today? 1. Sprite 2. Burger 3. Cake")
 
 alert("Thank you for visiting my website, " + userName + "!")     
