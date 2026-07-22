@@ -1,4 +1,4 @@
-console.log("Hello world!")
+console.log("Hello world!")khgjhg
 
 alert("Welcome to my first Javascript program!")
 
