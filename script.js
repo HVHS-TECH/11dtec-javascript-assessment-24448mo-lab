@@ -16,4 +16,6 @@ var userFood = prompt ("What are you choosing today? 1. Sprite ($5) 2. Burger ($
 
 console.log("You have chosen " + userFood + "!")
 
+var userMoney = prompt ("How much money do you have?")
+
 alert("Thank you for visiting my website, " + userName + "!")     
