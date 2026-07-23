@@ -19,4 +19,4 @@ console.log("You have chosen " + userFood + "!")
 
 var userMoney = prompt ("How much money do you have?")
 
-alert("Thank you for visiting my website, " + userName + "!")     
+alert("Thank you for visiting my website, " + userName + "!")
