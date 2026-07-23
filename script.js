@@ -13,7 +13,7 @@ alert("You are " + userAge + "!")
 
 console.log("You are " + userAge + " years old!")
 
-var userFood = prompt ("What are you choosing today? 1. Sprite ($5) 2. Burger ($5) 3. Cake ($5)"
+var userFood = prompt ("What are you choosing today? 1. Sprite ($5) 2. Burger ($5) 3. Cake ($5)")
 
 console.log("You have chosen " + userFood + "!")
 
